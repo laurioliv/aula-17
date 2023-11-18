@@ -1,0 +1,28 @@
+#bloco { 
+    background: url(img/4.avif);
+ border: 1px solid #000;   
+}
+
+p{
+    text-align: center;
+}
+p:hover {
+    background-color: rgb(236, 103, 207);
+}
+#iddope {
+    text-align: right;
+
+}
+#bloco1 {
+    width: 250px;
+    position: relative;
+
+}
+#bloco2 {
+    width: 250px;
+    float: right;
+}
+#bloco3 {
+    width: 250px;
+    float: right;
+}
